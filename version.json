@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 4,
-  "latestVersionName": "1.0.3",
-  "minSupportedVersionCode": 4,
+  "latestVersionCode": 7,
+  "latestVersionName": "1.0.6",
+  "minSupportedVersionCode": 7,
   "forceUpdate": false,
-  "updateMessage": "A new version of Farmera is available with bug fixes and improvements!",
+  "updateMessage": "An important update is required to continue playing. Please update to keep your progress safe.",
   "updateUrl": "https://play.google.com/store/apps/details?id=com.MagnusEntertainment.Farmera"
 }
